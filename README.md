@@ -7,4 +7,4 @@ versão do python: 3
 
 bypassing virus total
 
-![]https://image.prntscr.com/image/FzbeC9FaQ3yfsJeSTgNoEg.png
+![](https://image.prntscr.com/image/FzbeC9FaQ3yfsJeSTgNoEg.png)
